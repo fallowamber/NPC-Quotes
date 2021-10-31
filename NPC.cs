@@ -17,7 +17,7 @@ public static class NPC
 
     private static List<Entity> _entities = new List<Entity>()
     {
-        new Entity("Steven",           "Time is limited, it should be spent enjoying yourself"),
+        new Entity("Steven",           "Time is limited, it should be spent enjoying yourself."),
         new Entity("Daniel",           "People should be free to be as stupid as they want."),
         new Entity("Grace",           "I think the world works a lot better if we're all kind to each other."),
         new Entity("Stephanie",           "Violence isn't the solution, but it is an answer."),
@@ -25,16 +25,16 @@ public static class NPC
         new Entity("Jordan",           "Don't lick things unless You’re going to eat them."),
         new Entity("Ned",           "Winter is coming..."),
         new Entity("Favour Chukwuedo",        "Life is too short; wake up earlier!"),
-        new Entity("Favour Chukwuedo",        "No quick fixex; just smart work!"),
-        new Entity("Goblin",        "Time is money my friend."),
+        new Entity("Favour Chukwuedo",        "No quick fixes; just smart work!"),
+        new Entity("Goblin",        "Time is money, my friend."),
         new Entity("Druid",         "I'm awake... I'm awake."),
-        new Entity("Cowboy",        "It's high noon"),
-        new Entity("Don Corleone",  "I'm going to make him an offer he can't refuse"),
+        new Entity("Cowboy",        "It's high noon."),
+        new Entity("Don Corleone",  "I'm going to make him an offer he can't refuse."),
         new Entity("Travis",   "You talkin' to me?"),
         new Entity("Guard",   "Stop right there!"),
-        new Entity("Darth Vader",   "Luke, I am your father"),
-        new Entity("Darth Vader",   "Be careful not to choke on your aspirations, Director"),
-        new Entity("Wilhuff Tarkin",   "You may fire when ready"),
+        new Entity("Darth Vader",   "Luke, I am your father."),
+        new Entity("Darth Vader",   "Be careful not to choke on your aspirations, Director."),
+        new Entity("Wilhuff Tarkin",   "You may fire when ready."),
         new Entity("HK-47",   "Expletive: Damn it, master, I am an assassination droid... not a dictionary!"),
         new Entity("Kira Carsen",   "Eat Lightsaber, Jerk!"),
         new Entity("Jules Winnfield",   "Say what again. SAY WHAT again! And I dare you, I double dare you motherfucker! Say what one more time."),
@@ -212,6 +212,7 @@ public static class NPC
 		new Entity("The Dark Knight","Sometimes the truth isn't good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded..."),
 		new Entity("Elliot Alderson","When you delete something, you’re making a choice to destroy it. To never see it again."),
 		new Entity("Berlin","The things that are really important in life have a high price. Rebellion. Liberty. Ideals."),
+                new Entity("Aisha Olanrewaju","Be present in this world, you are here for a reason."),
     };
 }
 
